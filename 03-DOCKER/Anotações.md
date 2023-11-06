@@ -34,6 +34,7 @@ Parâmetro	Explicação
 -c	Balancear o uso de CPU
 Segue um exemplo simples no seguinte comando:
 
+
 `docker container run -it --rm --name meu_python python bash`
 De acordo com o comando acima, será iniciado um container com o nome meu_python, criado a partir da imagem python e o processo executado nesse container será o bash.
 
